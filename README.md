@@ -1,7 +1,7 @@
-# Outlook_Attachment_Fetcher
+# Outlook Attachment Fetcher
 
 ## Overview
-**Outlook_Attachment_Fetcher** is a desktop application designed to automate the process of fetching email attachments from a specified Outlook folder. With a clean and modern user interface, users can effortlessly download attachments by providing necessary inputs like their Outlook account name, folder name, and destination folder.
+**Outlook Attachment Fetcher** is a desktop application designed to automate the process of fetching email attachments from a specified Outlook folder. With a clean and modern user interface, users can effortlessly download attachments by providing necessary inputs like their Outlook account name, folder name, and destination folder.
 
 ---
 
@@ -28,6 +28,9 @@
 Install dependencies using:
 ```bash
 pip install pypiwin32
+```
+```bash
+pip install tk
 ```
 
 ---
